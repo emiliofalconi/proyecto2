@@ -1,5 +1,5 @@
-#include "menu.h"
-#include "trie.h"
+#include "menu.c"
+#include "trie.c"
 #include <stdio.h>
 #include <string.h>
 
